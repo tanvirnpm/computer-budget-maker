@@ -1,0 +1,13 @@
+.component-price-display{
+    width: 400px;
+}
+td{
+    font-weight: bold;
+}
+.btn-primary{
+    background-color: #DC3545 !important;
+    border-color: #DC3545 !important;
+}
+.btn-primary:hover{
+    background-color: #df1227 !important;
+}
